@@ -1,0 +1,12 @@
+{
+    "name": "jamsilver/composer",
+    "description": "Jamsilver's Composer Repository",
+    "homepage": "https://jamsilver.github.io/composer/",
+    "include-filename": "all.json",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/jamsilver/drupal-recommended-project"
+        }
+    ]
+}
