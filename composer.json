@@ -1,7 +1,7 @@
 {
     "name": "jamsilver/composer",
     "description": "Jamsilver's Composer Repository",
-    "homepage": "https://jamsilver.github.io/composer/",
+    "homepage": "https://jamsilver.me/composer/",
     "require": {
         "composer/satis": "~1.0.0"
     },
