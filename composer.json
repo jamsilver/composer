@@ -3,7 +3,7 @@
     "description": "Jamsilver's Composer Repository",
     "homepage": "https://jamsilver.github.io/composer/",
     "require": {
-        "composer/satis": "dev-main#2845708 as 1.0.0"
+        "composer/satis": "~1.0.0"
     },
     "config": {
         "platform": {
