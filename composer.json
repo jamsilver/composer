@@ -1,0 +1,20 @@
+{
+    "name": "jamsilver/composer",
+    "description": "Jamsilver's Composer Repository",
+    "homepage": "https://jamsilver.github.io/composer/",
+    "require": {
+        "composer/satis": "dev-main#2845708 as 1.0.0"
+    },
+    "config": {
+        "platform": {
+            "php": "7.3.0"
+        },
+        "sort-packages": true
+    },
+    "authors": [
+        {
+            "name": "jamsilver",
+            "email": "jamsilver@pm.me"
+        }
+    ]
+}
