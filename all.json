@@ -8357,12 +8357,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/jamsilver/drupal-recommended-project.git",
-                    "reference": "fcbe46af57f49dd7a8650629466a74695816480d"
+                    "reference": "29bb9ee0deddc0ac4c63fd50559a12df2195ef15"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/jamsilver/drupal-recommended-project/zipball/fcbe46af57f49dd7a8650629466a74695816480d",
-                    "reference": "fcbe46af57f49dd7a8650629466a74695816480d",
+                    "url": "https://api.github.com/repos/jamsilver/drupal-recommended-project/zipball/29bb9ee0deddc0ac4c63fd50559a12df2195ef15",
+                    "reference": "29bb9ee0deddc0ac4c63fd50559a12df2195ef15",
                     "shasum": ""
                 },
                 "require": {
@@ -8370,6 +8370,7 @@
                     "cweagans/composer-patches": "^1.7",
                     "drupal/admin_toolbar": "^3.1",
                     "drupal/adminimal_admin_toolbar": "^1.11",
+                    "drupal/coffee": "^1.2",
                     "drupal/config_split": "^1.8",
                     "drupal/core-composer-scaffold": "^9.1",
                     "drupal/core-project-message": "^9.1",
@@ -8398,10 +8399,11 @@
                     "drupal/restui": "^1.20",
                     "drupal/twig_vardumper": "^3.0",
                     "highlightjs/highlightjs": "^11.2",
+                    "phpspec/prophecy-phpunit": "^2",
                     "squizlabs/php_codesniffer": "^3.6",
                     "visjs/vis-network": "^9"
                 },
-                "time": "2022-06-02T14:52:06+00:00",
+                "time": "2022-06-03T22:20:16+00:00",
                 "type": "project",
                 "extra": {
                     "drupal-scaffold": {
